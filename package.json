@@ -127,7 +127,7 @@
 		"require-precompiled": "^0.1.0",
 		"resolve-cwd": "^3.0.0",
 		"slash": "^3.0.0",
-		"source-map-support": "^0.5.12",
+		"source-map-support": "^0.5.16",
 		"stack-utils": "^1.0.2",
 		"strip-ansi": "^5.2.0",
 		"strip-bom-buf": "^2.0.0",
